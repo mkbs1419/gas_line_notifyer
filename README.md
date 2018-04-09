@@ -25,9 +25,9 @@ Line Bot notification system, made by Google App scripts.
   * **Code:** 200 <br />
     **Content:** `API is running.`
 
-* **Sample Call:**
+<!-- * **Sample Call:**
 ```
-```
+``` -->
 
 
 **Send Message**
@@ -46,13 +46,13 @@ Line Bot notification system, made by Google App scripts.
 * **Data Params**
 
   UID_List = ["U0f45bbe453140970bc9b34570e4a62fc", "第二人", "第三人"]  
-  message_List ["第一句話", "第二句話", "第三句話"]
+  message_List = ["第一句話", "第二句話", "第三句話"]
 
 * **Success Response:**
 
   * **Code:** 200 <br />
     **Content:** `"All Success"` or `"第一人,第三人"`(fail UID)
 
-* **Sample Call:**
+<!-- * **Sample Call:**
 ```
-```
+``` -->
