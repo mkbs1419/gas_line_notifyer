@@ -49,7 +49,7 @@ Line Bot notification system, made by Google App scripts.
 * **Success Response:**
 
   * **Code:** 200 <br />
-    **Content:** `All Success` or `第一人,第三人`(fail UID)
+    **Content:** `"All Success"` or `"第一人,第三人"`(fail UID)
 
 * **Sample Call:**
 ```
