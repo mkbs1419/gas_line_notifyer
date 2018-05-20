@@ -1,4 +1,4 @@
-# gas_line_notifyer
+# line-push-api
 Line Bot notification system, made by Google App scripts.
 
 使用前需先加BOT為好友，或為非封鎖狀態。
